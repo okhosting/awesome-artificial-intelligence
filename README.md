@@ -5,7 +5,7 @@ A curated list of open source and comercial tools, services, libraries, document
 
 * [Personal-Chef](https://github.com/sid24rane/Personal-Chef) - An Self learning AI Chatbot who doesnt let you waste food by recommending awesome Recipies
  
-* []() - 
+* [Awesome Bot](https://github.com/9elements/awesome-bot) - A curated list of awesome bot and AI packages and resources.
  
 * []() - 
 
@@ -49,14 +49,122 @@ A curated list of open source and comercial tools, services, libraries, document
 
 * [Awesome EmbodiedAI (still in construct)](https://github.com/chengaopro/Awesome-EmbodiedAI) - A curated list about Awesome Embodied AI works and is still in construct. Now it contains a list of Simulators, Tasks and Datasets.
  
+* [Awesome AI for Libraries](https://github.com/MarcusBarnes/awesome_ai_for_libraries) - A curated list of various materials related to AI in Galleries, Libraries, Archives, and Museums.
+ 
+* [Awesome Ophthalmology](https://github.com/chrisnielsen/awesome-ophthalmology) - A curated list of awesome AI developments for ophthalmology
+ 
+* [Awesome AI Labs](https://github.com/sairampillai/awesome-ai-labs) - A curated list of Artificial Intelligence Labs doing cutting edge research.
+ 
+* [Awesome AI for cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) - This is a list of AI for cybersecurity, including network (network traffic analysis and intrusion detection), endpoint (anti-malware), application (WAF or database firewalls), user (UBA), process behavior (anti-fraud).
+
+* [Awesome-System-for-Could-and-Edge-AI](https://github.com/swagshaw/Awesome-Cloud-Edge-AI) - A curated list of research in System for Edge Intelligence and Computing(Edge MLSys), including Frameworks, Tools, Repository, etc. Paper notes are also provided.
+
+* [Awesome AI for Single Cell Data Analysis](https://github.com/sallyqus/awesome-AI4SingleCell) - Must-read papers on deep learning based methodology paper for single cell data analysis
+ 
+* [Awesome AI channels and groups in Telegram in Persian/English](https://github.com/AminTaheri23/Awesome-AI-telegram-gp-and-channel) - Awesome Ai telegram Channel and gp.
+ 
+* [Raspberry Pi](https://github.com/mgomesborges/raspberry-pi) - This repository contains a step-by-step guide and command-line tool to help you get started with your Raspberry Pi for several kinds of awesome projects like: Machine Learning and Deep Learning, Image and video processing, Speech processing
+ 
+* [Awesome AI bioinformatics](https://github.com/HongxinXiang/awesome-ai-bioinformatics) - A curated list of awesome AI and Bioinformatics.
+
+* [Awesome AI - Machine learning and Data Ops](https://github.com/nellaivijay/Awesome-AIML-Data-Ops) - This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production AI and ML.
+
+* [Welcome to Awesome On-device AI](https://github.com/ysyisyourbrother/awesome-on-device-AI) - A curated list of awesome projects and papers for AI on Mobile/IoT/Edge devices.
+
+* [Awesome AI in Libraries](https://github.com/CENL-Network-Group-AI/awesome-list) - Libraries hold an increasing amount of digital data that can be extracted, analysed and processed using different AI methods for different use cases. Some libraries manage this internally, others set up projects and others yet have a dedicated labs environment.
+
+* [Awesome AI](https://github.com/hashborgir/awesome-ai) - Awesome curated list of AI based generators, free and paid.
+
+* [Awesome AI](https://github.com/mhmmyu/awesomeAI) - Curated list artificial intelligence tools around the web.
+ 
+* [AI Systems](https://github.com/Jason-cs18/Awesome-AI-Systems) - Resources for recent AI systems (deployment concerns, cost and accessibility).
+ 
+* [awesome-ai](https://github.com/santoshgsk/awesome-ai-up-to-date) - A list of best resources covering broad topics including Python, Data Engineering, Data Analysis, Machine Learning, Deep Learning, RL.
+
+* [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) - A curated list of awesome academic research, books, code of ethics, data sets, institutes, newsletters, principles, podcasts, reports, tools and regulations related to Responsible AI and Human-Centered AI.
+ 
+* [Awesome AI Tools](https://github.com/nanogiants/awesome-ai-tools) - A curated list of AI-powered tools.
+ 
+* [awesome-AISecOps](https://github.com/oasiszrz/awesome-AISecOps) - This repository contains a curated list of awesome resources related to AISecOps.
+ 
+* [Awesome Generative AI](https://github.com/chaosreactor/awesome-generative-ai) - An awesome list of low- and no-code generative AI resources.
+ 
+* [Awesome AI](https://github.com/aichinateam/awesome-ai) - 目前主要搜集了 GitHub 上已有的和 AI 相关的 Awesome List，下一步准备在此基础上一步一步做一个比较全的 Awesome AI List。 大家可以在 GitHub 上一起贡献这个列表，谢谢！
+
+* [awesome-ai-testing](https://github.com/IS2Lab/awesome-ai-testing) - A curated list of awesome publications and researchers on AI testing.
+
+* [awesome-ai-programming-competitions](https://github.com/StoneT2000/awesome-ai-programming-competitions) - List of competitions that involve programming a virtual agent / ai to compete robot
+ 
 * []() - 
  
 * []() - 
-
-## Subtitle
-
+ 
 * []() - 
  
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+## Image generation
+
+* [NeoGen](https://github.com/technobird22/NeoGen) - A tool for generating awesome AI art
+
 * []() - 
  
 * []() - 

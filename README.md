@@ -95,52 +95,50 @@ A curated list of open source and comercial tools, services, libraries, document
 
 * [awesome-ai-programming-competitions](https://github.com/StoneT2000/awesome-ai-programming-competitions) - List of competitions that involve programming a virtual agent / ai to compete robot
  
-* []() - 
+* [awesome-ai-in-production](https://github.com/MrzEsma/awesome-ai-product-design) - An attempt to collects tools and resources about machine-learning-powered design.
  
-* []() - 
+* [Deep Learning](https://github.com/ElizaLo/Deep-Learning) - Implementation of Deep Learning Algorithms and useful information (courses, books, videos, etc.)
  
-* []() - 
+* [Awesome_AI_Aided_Drug_Design_Papers](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)
  
-* []() - 
+* [Awesome-AI4Drug-Papers](https://github.com/Beastlyprime/awesome-AI4Drug-papers) - A collection of AI for Drug Design related papers and corresponding code sources (in progress).
+
+* [Awesome Game AI papers](https://github.com/manjunath5496/Awesome-Game-AI-papers) - 
  
-* []() - 
+* [The World of AutoML AutoKeras HPO](https://github.com/DeepHiveMind/AutoML_AutoKeras_HPO) - star The Awesome world of Automated Machine Learning | The Next Gen of AI |
  
-* []() - 
+* [Awesome AI Infrastructures](https://github.com/1duo/awesome-ai-infrastructures) - orange_book List of real-world AI infrastructures (a.k.a., machine learning systems, pipelines, workflows, and platforms) for machine/deep learning training and/or inference in production electric_plug.
  
-* []() - 
+* [AI for Time Series (AI4TS) Papers, Tutorials, and Surveys](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) - A professional list of Papers, Tutorials, and Surveys on AI for Time Series in top AI conferences and journals.
  
-* []() - 
+* [Awesome NeuroAI Papers](https://github.com/CYHSM/awesome-neuro-ai-papers) - Papers from the intersection of deep learning and neuroscience.
  
-* []() - 
+* [My Artificial Intelligence Bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) - Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.
  
-* []() - 
+* [Awesome-Fairness-in-AI](https://github.com/datamllab/awesome-fairness-in-ai) - A curated list of awesome Fairness in AI resources.
  
-* []() - 
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
+
+* [Awesome Artificial Intelligence](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project).
  
-* []() - 
+* [https://github.com/murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
  
-* []() - 
+* [awesome-AI-cheatsheets](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets) - AI与数据科学各类工具库速查表与参考代码
  
-* []() - 
+* [Awesome Data-Centric AI](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) - Data-Centric AI is the approach to AI development that considers the training dataset as the centerpiece of the solution instead of the model. This repository contains a curated list of awesome resources such as open-source libraries, tutorials, and articles that will help you understand the concepts, and start your journey on Data-Centric AI development.
  
-* []() - 
+* [Awesome Aiogram](https://github.com/comictomcat/awesome-aiogram) - A curated list of awesome aiogram templates, libraries, open-source bots and resources. It's based on this message and inspired by awesome-python.
  
-* []() - 
+* [awesome-ai-services](https://github.com/sekwiatkowski/awesome-ai-services) - An overview of the AI-as-a-service landscape.
  
-* []() - 
+* [NCNN Models](https://github.com/Baiyuetribe/ncnn-models) - awesome AI models with NCNN, and how they were converted sparklessparklessparkles.
  
-* []() - 
+* [Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) - The guide to master Artificial Intelligence (machine learning & deep learning) from beginner to advance.
  
-* []() - 
- 
-* []() - 
- 
-* []() - 
- 
-* []() - 
- 
-* []() - 
- 
+* [Introduction to Bioinformatics/Cheminformatics](https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery) - A collection of resources useful for leveraging big data and AI for drug discovery. It mainly serves as an orientation for new lab folks. It may be biased towards my lab interest.
+
+* [Awesome AI, ML and Data Science on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) - snowflake whale Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision, Data Science, Data Analytics and Cognitive Computing that are baked in the oven to be Native on Kubernetes and Docker with Python, R, Scala, Java, C#, Go, Julia, C++ etc
+
 * []() - 
  
 * []() - 

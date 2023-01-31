@@ -178,6 +178,43 @@ A curated list of open source and comercial tools, services, libraries, document
 * [Awesome AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - A curated list of AI security resources inspired by awesome-adversarial-machine-learning & awesome-ml-for-cybersecurity.
  
 * [Awesome AI books](https://github.com/zslucky/awesome-AI-books) - Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning.
+
+* [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) - A collection of research materials on explainable AI/ML.
+ 
+* [awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) - A repository to curate and summarise research papers related to fashion and e-commerce.
+ 
+* [Awesome Artificial Intelligence use cases](https://github.com/JosPolfliet/awesome-ai-usecases) - A list of awesome and proven Artificial Intelligence use cases and applications.
+ 
+* [Awesome Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai) - A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
+
+* [Awesome-Game-AI](https://github.com/datamllab/awesome-game-ai) - Awesome Game AI materials of Multi-Agent Reinforcement Learning.
+ 
+* [Machine Learning & Data Science Interview](https://github.com/theainerd/MLInterview) - :octocat: A curated awesome list of AI Startups in India & Machine Learning Interview Guide. Feel free to contribute!
+ 
+* [Awesome AI Awesomeness](https://github.com/amusi/awesome-ai-awesomeness) - A curated list of awesome awesomeness about artificial intelligence.
+ 
+* [Awesome Best Papers](https://github.com/familyld/Awesome-Best-Papers) - Collect awesome best papers from top AI conferences.
+ 
+* [Awesome Artificial Intelligence](https://github.com/hades217/awesome-ai) - A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project).
+ 
+* [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
+ 
+* [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency) - List of AI Residency Programs.
+ 
+* [ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
+ 
+* [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) - microscope A curated list of awesome machine learning strategies & tools in financial market.
+ 
+* [Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+
  
 ## Image generation
 
@@ -186,7 +223,12 @@ A curated list of open source and comercial tools, services, libraries, document
 * [MAKE ART with Artificial Intelligence](https://github.com/kevinash/awesome-ai) - How to use AI, NFT and Blockchain super-tools to make and sell your art. A richly illustrated tutorial on drawing sketching, inking, light, shading, coloring, face generation, animation and anything art with AI (check the book).
  
 * [Awesome-AI-ART-generation](https://github.com/colorful-liyu/Awesome-AI-ART-generation) - This is a collection of resources on AI-AR-ART generation.
+ 
+* [Awesome AI image synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 
+* [Awesome Stable-Diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
+ 
+* [awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform.
 ## Medicine
  
 * [Awesome Ophthalmology](https://github.com/chrisnielsen/awesome-ophthalmology) - A curated list of awesome AI developments for ophthalmology
@@ -227,59 +269,51 @@ A curated list of open source and comercial tools, services, libraries, document
  
 * []() - 
  
-## Subtitle
+## Comercial services
 
-* []() - 
+* [ValidatorAI.com](https://www.validatorai.com/) - Get objective criticism and feedback from an AI about your business idea FOR FREE.
  
-* []() - 
+* [Naming Magic](https://www.namingmagic.com/) - Use AI to name your company and find a domain.
  
-* []() - 
+* [logoai](https://www.logoai.com/) - Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!
 
-## Subtitle
+* [MakeLogo.ai](https://makelogo.ai/) - Use the power of artificial intelligence to generate beautiful and unique logos for your projects.
+ 
+* [durable](https://durable.co/) - Build a website in 30 seconds with AI.
+ 
+* [Mokker](https://mokker.ai/) - Professional photos of your product, made with AI.
 
-* []() - 
+* [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
  
-* []() - 
+* [MidJourney](https://midjourney.com/) - Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
  
-* []() - 
+* [Diffusion Bee](https://diffusionbee.com/) - Create Amazing Images Using AI.
 
-## Subtitle
+* [AI Picasso](https://www.aipicasso.app/) - Create Art with Powerful AI.
+ 
+* [copy.ai](https://www.copy.ai/) - Experience the full power of an AI content generator that delivers premium results in seconds.
+ 
+* [Jasper](https://www.jasper.ai/) - Jasper is the AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 
-* []() - 
+* [longshot](https://www.longshot.ai/) - Spend hours and hours of your time trying to get it right, or simply leverage the power of artificial intelligence to create blogs that humans and search engines love.
  
-* []() - 
+* [AI Social Bio](https://aisocialbio.com/) - Your social media bio, created by artificial intelligence.
  
-* []() - 
+* [Bito](https://bito.co/) - Use the same AI as ChatGPT, trained on billions of lines of code and docs.
 
-## Subtitle
+* [AI Code Reviewer](https://ai-code-reviewer.com/) 
+ 
+* [Replica](https://www.replicastudios.com/) - AI voice actors for games, film & the metaverse
+ 
+* [murf.ai](https://murf.ai/) - Create voice over online for your videos from scratch. Explore 120+ text to speech voices in 20+ Languages and accents. 
 
-* []() - 
+* [ortto](https://ortto.com/ai/) - Open rate prediction, messaging suggestions and image generation to help you grow faster with AI.
  
-* []() - 
+* [craftly.ai](https://www.craftly.ai/) - Not just another repetitive or basic AI Copywriter - We're trained on 10,000+ hours of expert content in your industry. Discover tools for original, high converting content the way you like it.
  
-* []() - 
+* [luna](https://getluna.dev/) - World's first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.
 
-## Subtitle
+* [Reply](https://reply.io/) - Automate communication with inbound leads at scale while providing a personal touch. Using Reply, you can instantly connect with trial users, blog subscribers and leads with demo requests, automate lead nurturing throughout the sales cycle, and re-engage stale opportunities.
 
-* []() - 
- 
-* []() - 
- 
-* []() - 
 
-## Subtitle
-
-* []() - 
- 
-* []() - 
- 
-* []() - 
-
-## Subtitle
-
-* []() - 
- 
-* []() - 
- 
-* []() - 
 

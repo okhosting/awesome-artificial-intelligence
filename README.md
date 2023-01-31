@@ -21,8 +21,6 @@ A curated list of open source and comercial tools, services, libraries, document
 
 * [Awesome Real-time AI](https://github.com/Kyrie-Zhao/awesome-real-time-AI) - This is a list of awesome real-time AI and DNN inference related projects & papers.
  
-* [awesome-DrugAI](https://github.com/yataobian/awesome-DrugAI) - A comprehensive list of drug AI (AI-aided de novo drug discovery) papers and materials. Will be frequently updated.
- 
 * [awesome-AI-feeds](https://github.com/RSS-Renaissance/awesome-AI-feeds) - List of RSS Feeds with AI content.
 
 * [Awesome-AI](https://github.com/t3l3machus/Awesome-AI) - Small list of AI tools.
@@ -50,8 +48,6 @@ A curated list of open source and comercial tools, services, libraries, document
 * [Awesome EmbodiedAI (still in construct)](https://github.com/chengaopro/Awesome-EmbodiedAI) - A curated list about Awesome Embodied AI works and is still in construct. Now it contains a list of Simulators, Tasks and Datasets.
  
 * [Awesome AI for Libraries](https://github.com/MarcusBarnes/awesome_ai_for_libraries) - A curated list of various materials related to AI in Galleries, Libraries, Archives, and Museums.
- 
-* [Awesome Ophthalmology](https://github.com/chrisnielsen/awesome-ophthalmology) - A curated list of awesome AI developments for ophthalmology
  
 * [Awesome AI Labs](https://github.com/sairampillai/awesome-ai-labs) - A curated list of Artificial Intelligence Labs doing cutting edge research.
  
@@ -98,10 +94,6 @@ A curated list of open source and comercial tools, services, libraries, document
 * [awesome-ai-in-production](https://github.com/MrzEsma/awesome-ai-product-design) - An attempt to collects tools and resources about machine-learning-powered design.
  
 * [Deep Learning](https://github.com/ElizaLo/Deep-Learning) - Implementation of Deep Learning Algorithms and useful information (courses, books, videos, etc.)
- 
-* [Awesome_AI_Aided_Drug_Design_Papers](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)
- 
-* [Awesome-AI4Drug-Papers](https://github.com/Beastlyprime/awesome-AI4Drug-papers) - A collection of AI for Drug Design related papers and corresponding code sources (in progress).
 
 * [Awesome Game AI papers](https://github.com/manjunath5496/Awesome-Game-AI-papers) - 
  
@@ -134,8 +126,6 @@ A curated list of open source and comercial tools, services, libraries, document
 * [NCNN Models](https://github.com/Baiyuetribe/ncnn-models) - awesome AI models with NCNN, and how they were converted sparklessparklessparkles.
  
 * [Awesome-AI](https://github.com/VidyasagarMSC/Awesome-AI) - The guide to master Artificial Intelligence (machine learning & deep learning) from beginner to advance.
- 
-* [Introduction to Bioinformatics/Cheminformatics](https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery) - A collection of resources useful for leveraging big data and AI for drug discovery. It mainly serves as an orientation for new lab folks. It may be biased towards my lab interest.
 
 * [Awesome AI, ML and Data Science on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) - snowflake whale Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision, Data Science, Data Analytics and Cognitive Computing that are baked in the oven to be Native on Kubernetes and Docker with Python, R, Scala, Java, C#, Go, Julia, C++ etc
 
@@ -167,8 +157,18 @@ A curated list of open source and comercial tools, services, libraries, document
  
 * []() - 
 
-## Subtitle
+## Medicine
+ 
+* [Awesome Ophthalmology](https://github.com/chrisnielsen/awesome-ophthalmology) - A curated list of awesome AI developments for ophthalmology
 
+* [awesome-DrugAI](https://github.com/yataobian/awesome-DrugAI) - A comprehensive list of drug AI (AI-aided de novo drug discovery) papers and materials. Will be frequently updated.
+ 
+* [Introduction to Bioinformatics/Cheminformatics](https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery) - A collection of resources useful for leveraging big data and AI for drug discovery. It mainly serves as an orientation for new lab folks. It may be biased towards my lab interest.
+ 
+* [Awesome_AI_Aided_Drug_Design_Papers](https://github.com/chenxingqiang/Awesome_AI_Aided_Drug_Design_Papers)
+ 
+* [Awesome-AI4Drug-Papers](https://github.com/Beastlyprime/awesome-AI4Drug-papers) - A collection of AI for Drug Design related papers and corresponding code sources (in progress).
+ 
 * []() - 
  
 * []() - 

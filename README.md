@@ -7,7 +7,7 @@ A curated list of open source and comercial tools, services, libraries, document
  
 * [Awesome Bot](https://github.com/9elements/awesome-bot) - A curated list of awesome bot and AI packages and resources.
  
-* []() - 
+* [Awesome Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai) - A curated list of delightful Conversational AI resources to help you dive in and create awesome chatbots or digital assistants.
 
 ## Vision
 
@@ -129,33 +129,63 @@ A curated list of open source and comercial tools, services, libraries, document
 
 * [Awesome AI, ML and Data Science on Kubernetes](https://github.com/CognonicLabs/awesome-AI-kubernetes) - snowflake whale Awesome tools and libs for AI, Deep Learning, Machine Learning, Computer Vision, Data Science, Data Analytics and Cognitive Computing that are baked in the oven to be Native on Kubernetes and Docker with Python, R, Scala, Java, C#, Go, Julia, C++ etc
 
-* []() - 
+* [Awesome XAI](https://github.com/altamiracorp/awesome-xai) - Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources.
+
+* [awesome-AI-courses-notes-cheatsheets](https://github.com/ShowMeAI-Hub/awesome-AI-courses-notes-cheatsheets) - 全球顶级高校AI课程知识点笔记与速查表
+
+* [Awesome AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
  
-* []() - 
+* [Awesome AI Best Papers](https://github.com/shunk031/awesome-ai-best-papers) - A curated list of famous CV/NLP/ML/AI best papers, inspired by Best Paper Awards in Computer Science (since 1996).
  
-* []() - 
+* [Awesome RoadMaps](https://github.com/wx-chevalier/Awesome-Vision-and-RoadMaps) - Awesome Vision and RoadMaps for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 技术领域前瞻与程序员的进阶之路
  
-* []() - 
+* [awesome-AIOps](https://github.com/OpsPAI/awesome-AIOps) - A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps).
  
-* []() - 
+* [Awesome RSS feed](https://github.com/vishalshar/awesome_ML_AI_RSS_feed) - Awesome curated RSS feed links related to Machine Learning, Artificial Intelligence, Reinforcement Learning. Import rssowl.opml file to your favourite RSS feeder to access below links
  
-* []() - 
+* [Awesome Iterative Projects](https://github.com/iterative/awesome-iterative-projects) - A list of projects relying on Iterative.AI tools to achieve awesomeness.
  
-* []() - 
+* [Tamil Deep Learning Awesome List](https://github.com/narVidhai/tamil-nlp-catalog) - Awesome List of Tamil NLP & AI Resources.
  
-* []() - 
+* [awesome-ai](https://github.com/MRCIEU/awesome-ai) - Awesome list for all things AI, ML and deep learning.
  
-* []() - 
+* [Recent AI Advances: Tutorials and Surveys in Top AI Conferences and Journals](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) - A professional list of Tutorials and Surveys on DL, ML, DM, CV, NLP, Speech in top AI conferences and journals.
  
-* []() - 
+* [Awesome Artificial Intelligence Academia](https://github.com/thundergolfer/awesome-AI-academia) - A curated list of academic AI resources and people. Partly an aspirational list, partly a memory aide.
+ 
+* [Awesome Climate Change and AI](https://github.com/shankarj67/Awesome-Climate-Change-AI) - A curated list of awesome things related to Climate change and AI.
+ 
+* [awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai) - A curated list of edge tools for AI applications.
+ 
+* [awesome-huge-models](https://github.com/zhengzangw/awesome-huge-models) - A collection of AWESOME things about HUGE AI models.
+ 
+* [Senzing/awesome](https://github.com/Senzing/awesome) - Curated list of awesome software and resources for Senzing, The First Real-Time AI for Entity Resolution.
+ 
+* [Awesome Robotics and Artificially Intelligence Agent Companies](https://github.com/balloch/awesome-robotics-ai-companies) - A living list of important industry innovators in the Robotics and AI space.
+ 
+* [Awesome AI List Guide](https://github.com/bigcash/awesome-ai-list-guide) - The guide of awesome list about AI.
+ 
+* [Recent Advances in AI4CODE](https://github.com/bdqnghi/awesome-ai4code-papers) - A collection of recent papers, benchmarks and datasets of AI4Code domain.
+ 
+* [Awesome AI For Front-end Developers](https://github.com/thestriver/awesome-ai-frontend) - star2 A curated list of AI resources (APIs and SDKs, Code samples, Community projects, Learning Materials) for front-end developers who want to build AI-powered apps.
+ 
+* [Awesome Embeded AI](https://github.com/Staok/Awesome-Embeded-AI) - 收集关于嵌入式领域的机器学习算法实现的进展、相关论文和文章、开发库等，帮助初学者快速了解、学习和入门嵌入式领域的机器学习。CC-BY-NC-SA 4.0。
+ 
+* [Artificial-Intelligence](https://github.com/Niraj-Lunavat/Artificial-Intelligence) - Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools.
+ 
+* [Awesome AI-ML-DL](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
+
+* [Awesome AI Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - A curated list of AI security resources inspired by awesome-adversarial-machine-learning & awesome-ml-for-cybersecurity.
+ 
+* [Awesome AI books](https://github.com/zslucky/awesome-AI-books) - Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning.
  
 ## Image generation
 
 * [NeoGen](https://github.com/technobird22/NeoGen) - A tool for generating awesome AI art
 
-* []() - 
+* [MAKE ART with Artificial Intelligence](https://github.com/kevinash/awesome-ai) - How to use AI, NFT and Blockchain super-tools to make and sell your art. A richly illustrated tutorial on drawing sketching, inking, light, shading, coloring, face generation, animation and anything art with AI (check the book).
  
-* []() - 
+* [Awesome-AI-ART-generation](https://github.com/colorful-liyu/Awesome-AI-ART-generation) - This is a collection of resources on AI-AR-ART generation.
 
 ## Medicine
  
@@ -169,12 +199,34 @@ A curated list of open source and comercial tools, services, libraries, document
  
 * [Awesome-AI4Drug-Papers](https://github.com/Beastlyprime/awesome-AI4Drug-papers) - A collection of AI for Drug Design related papers and corresponding code sources (in progress).
  
-* []() - 
+* [awesome-ai-cancer](https://github.com/cbailes/awesome-ai-cancer) - Awesome artificial intelligence in cancer diagnostics and oncology.
  
-* []() - 
+* [awesome-design.ai](https://github.com/shadowcz007/awesome-design.ai) - Useful resources for creating Design Artificial Intelligence
  
-* []() - 
+* [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design) - This is a collection of research papers for AI-based Protein Design. And the repository will be continuously updated to track the frontier of AI-based protein design.
 
+* [awesome-healthcare-ai](https://github.com/medtorch/awesome-healthcare-ai) - A curated list of awesome open source healthcare tools, algorithms, datasets and research papers.
+ 
+* [awesome-ai-cardiology](https://github.com/cbailes/awesome-ai-cardiology) - Awesome resources for artificial intelligence in cardiology.
+ 
+* [Awesome Healthmetrics](https://github.com/leandromineti/awesome-healthmetrics) - A curated list of awesome resources at the intersection of healthcare and AI.
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
+* []() - 
+ 
 ## Subtitle
 
 * []() - 

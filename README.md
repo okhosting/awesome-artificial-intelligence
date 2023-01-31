@@ -1,5 +1,5 @@
 # Awesome Artificial Intelligence
-A curated list of open source and comercial tools, services, libraries, documentation and everything to master Artificial Intelligence.
+Curated list of open source and comercial tools, services, libraries, documentation and everything AI.
 
 ## Awesome lists for learning AI
   
